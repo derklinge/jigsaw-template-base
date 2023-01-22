@@ -6,7 +6,7 @@ project starter-kit extending the initial default setup provided by Jigsaw's
 _init_
 command.
 
-## Features:**
+## Features
 
 - [Browsersync](https://browsersync.io/)
 - Source-Maps generation
